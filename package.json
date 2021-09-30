@@ -1,0 +1,32 @@
+{
+  "name": "main",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "inquirer": "^8.1.5"
+  },
+  "devDependencies": {
+    "jest": "^25.5.4"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sunrisedad/zookeepr.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Sunrisedad/zookeepr/issues"
+  },
+  "homepage": "https://github.com/Sunrisedad/zookeepr#readme",
+  "description": ""
+}
